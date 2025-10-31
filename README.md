@@ -78,7 +78,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:SambasBoyyyy?theme=booru-helltaker&padding=5&offset=100&scale=1&align=center&pixelated=0&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:SambasBoyyyy?theme=booru-helltaker&padding=6&offset=100&scale=1&align=center&pixelated=0&darkmode=auto"  />
 </div>
 
 ###
