@@ -5,7 +5,12 @@
 ###
 
 <h1 align="left">Hi, Samiul Here!!</h1>
-
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SambasBoyyyy/SambasBoyyyy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SambasBoyyyy/SambasBoyyyy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SambasBoyyyy/SambasBoyyyy/output/pacman-contribution-graph.svg">
+</picture>
 ###
 
 <img align="right" height="202" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR5Z3Y1ZnJ0MzF3amx1NTV4eHA5ZHV0ajFnMGV1NjkzYXUzbjQ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif"  />
@@ -13,14 +18,6 @@
 ###
 
 <h5 align="left">Transforming AI's into Terminators and Making Software to educate them.</h5>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SambasBoyyyy/SambasBoyyyy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SambasBoyyyy/SambasBoyyyy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SambasBoyyyy/SambasBoyyyy/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
